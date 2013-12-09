@@ -3,6 +3,13 @@ Ruby Gem Tree
 
 Here is tree of useful ruby gems to apply them with Ruby-on-Rails, Sinatra, and Espresso frameworks.
 
+Russian/Slavic
+--------------
+
+* [Russian language support for Ruby and Rails, using I18n library | Поддержка русского языка для Ruby и Rails при помощи библиотеки I18n](https://github.com/yaroslav/russian)
+* [With the I18n v0.3.0+, full pluralization support made possible for every language. The files you need to use Russian in rails](https://github.com/dima4p/no_russian_gem)
+* [A library to inflect Russian anthroponyms such as first names, last names, and middle names. http://petrovich.rocketscience.it/](https://github.com/petrovich/petrovich-ruby)
+
 Documents
 ---------
 
