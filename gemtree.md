@@ -120,3 +120,9 @@ keywords: miltilanguage
 
 * [Rails I18n de-facto standard library for ActiveRecord model/data translation.](https://github.com/globalize/globalize)
 
+Active Record
+-------------
+keywords: active_record
+
+* [Working with any data in AR style](https://github.com/pyromaniac/active_data)
+
