@@ -126,3 +126,9 @@ keywords: active_record
 
 * [Working with any data in AR style](https://github.com/pyromaniac/active_data)
 
+SQL
+---
+keyword: sql
+
+* [ARel - SQL query relational algebra](https://github.com/rails/arel)
+
