@@ -128,7 +128,12 @@ keywords: active_record
 
 SQL
 ---
-keyword: sql
+keywords: sql
 
 * [ARel - SQL query relational algebra](https://github.com/rails/arel)
 
+Authorization
+-------------
+keywords: authorization
+
+* [Authority helps you authorize actions in your Rails app](https://github.com/nathanl/authoruty)
