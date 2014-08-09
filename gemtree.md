@@ -21,6 +21,7 @@ Tests, Specs, and Features
 
 * [Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.](https://github.com/vcr/vcr)
 * [Rails Generators for Cucumber with special support for Capybara and DatabaseCleaner](https://github.com/cucumber/cucumber-rails)
+* [Capybara scrennshot automatically saves screenshots when a Cucumber Capybara scenario fails](https://github.com/mattheworiordan/capybara-screenshot)
 
 HTTP Functionalities
 --------------------
@@ -137,3 +138,5 @@ Authorization
 keywords: authorization
 
 * [Authority helps you authorize actions in your Rails app](https://github.com/nathanl/authoruty)
+
+
