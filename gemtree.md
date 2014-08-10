@@ -139,4 +139,9 @@ keywords: authorization
 
 * [Authority helps you authorize actions in your Rails app](https://github.com/nathanl/authoruty)
 
+Chart
+-----
+keywords: js,chart
+
+* [Create beautiful Javascript charts with one line of Ruby](https://github.com/ankane/chartkick)
 
