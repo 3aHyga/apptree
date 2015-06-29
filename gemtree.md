@@ -145,3 +145,23 @@ keywords: js,chart
 
 * [Create beautiful Javascript charts with one line of Ruby](https://github.com/ankane/chartkick)
 
+Sinatra
+-------
+keywords: sinatra
+
+* [Extends Sinatra with ActiveRecord helper methods and Rake tasks.](https://github.com/janko-m/sinatra-activerecord)
+
+DB Bit Operations
+-----------------
+keywords: active_record, bit
+
+* [n Booleans = 1 Integer, saves columns and migrations.](https://github.com/grosser/bitfields)
+* [Bit fields for ActiveRecord](https://github.com/pboling/flag_shih_tzu)
+* [Provides an easy way for dealing with bit fields in a ruby object](https://github.com/pjb3/has-bit-field)
+
+Flickr
+------
+keywords: flickr, api, cloud
+
+* [Ruby library to access flickr api](https://github.com/hanklords/flickraw)
+* [flickr-fu is a ruby interface around the flickr REST api](https://github.com/commonthread/flickr_fu)
