@@ -165,3 +165,18 @@ keywords: flickr, api, cloud
 
 * [Ruby library to access flickr api](https://github.com/hanklords/flickraw)
 * [flickr-fu is a ruby interface around the flickr REST api](https://github.com/commonthread/flickr_fu)
+
+View sync
+---------
+keywords: user,view,rails
+
+* [Real-time Rails Partials](https://github.com/chrismccord/sync)
+
+Testing
+-------
+keywords: test,qa,isolated
+
+* [Test Kitchen is an integration tool for developing and testing infrastructure code and software on isolated target platforms. 
+http://kitchen.ci](https://github.com/test-kitchen/test-kitchen)
+ * [kitchen-sync provides alternate file transfer implementations for test-kitchen, most of which are faster than the default, thus speeding up your test runs.](https://github.com/coderanger/kitchen-sync)
+
