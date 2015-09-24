@@ -18,10 +18,14 @@ Documents
 
 Tests, Specs, and Features
 --------------------------
+keywords: test,qa,isolated
 
 * [Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.](https://github.com/vcr/vcr)
 * [Rails Generators for Cucumber with special support for Capybara and DatabaseCleaner](https://github.com/cucumber/cucumber-rails)
 * [Capybara scrennshot automatically saves screenshots when a Cucumber Capybara scenario fails](https://github.com/mattheworiordan/capybara-screenshot)
+* [Test Kitchen is an integration tool for developing and testing infrastructure code and software on isolated target platforms. 
+http://kitchen.ci](https://github.com/test-kitchen/test-kitchen)
+ * [kitchen-sync provides alternate file transfer implementations for test-kitchen, most of which are faster than the default, thus speeding up your test runs.](https://github.com/coderanger/kitchen-sync)
 
 HTTP Functionalities
 --------------------
@@ -39,7 +43,7 @@ keywords: profiling,debug
 * [A Ruby gem for memory profiling](https://github.com/ice799/memprof) http://timetobleed.com
 * [Integrates ruby-prof with RSpec, allowing you to easily profile your RSpec examples.](https://github.com/sinisterchipmunk/rspec-prof) http://www.thoughtsincomputation.com
 
-Algirythms
+Algorythms
 ----------
 keywords: algo,algorythms
 
@@ -85,29 +89,29 @@ keywords: app,rails,internals,pry
 * [Rails 3 pry initializer](https://github.com/rweng/pry-rails)
 * [Connect to Pry remotely using EventMachine with tab-completion, paging, user authentication and SSL support](https://github.com/simulacre/pry-remote-em) http://www.simulacre.org/pry-remote-em/
 * [Pry navigation commands via debugger (formerly ruby-debug)](https://github.com/nixme/pry-debugger)
-* [Pry navigation commands via debugger (formerly ruby-debug)](https://github.com/nixme/pry-debugger)
 * [port of debugger that works on MRI 2.0.0](https://github.com/ko1/debugger2)
-
-
 * [Filter unwanted params from your controllers/actions in your Rails app. Provides param_protected and param_accessible analogous to ActiveRecord's attr_protected and attr_accessible.](https://github.com/cjbottaro/param_protected) http://blog.stochasticbytes.com/2008/01/introducing-param_protected/
 
-
+Socials Networking
+------------------
 keywords: social,facebook,twitter,livejournal,vkontakte
+
 * [gem posts to different social networks](https://github.com/HeeL/social_poster)
 
-Authorization/Authentication
-keywords: authorization,authentication
+Authentication
+----------------------------
+keywords: authentication
 
-* [An example Rails 3.2 app with Devise, CanCan, and Twitter Bootstrap. With a tutorial.](https://github.com/RailsApps/rails3-bootstrap-devise-cancan) http://railsapps.github.io
-* [Authorization Gem for Ruby on Rails.](https://github.com/ryanb/cancan)
 * [Role management library with resource scoping](https://github.com/EppO/rolify) http://eppo.github.com/rolify/
 
-Rails Client Part
------------------
-keywords: links
+Rails Client Part (Front-End)
+-----------------------------
+keywords: links,front-end
 
+* [Ruby to JavaScript compiler http://opalrb.org](https://github.com/opal/opal)
 * [Easy method to handle logic behind active links](https://github.com/comfy/active_link_to)
 * [If Turbolinks are not enough for you. Wiselinks makes your application work faster.](https://github.com/igor-alexandrov/wiselinks)
+* [RIDL is a Ruby library implementing an OMG IDL parser/compiler frontend with support for pluggable (and stackable) backends.](https://osportal.remedy.nl/projects/ridl/)
 
 Exceptions
 ----------
@@ -137,7 +141,9 @@ Authorization
 -------------
 keywords: authorization
 
+* [An example Rails 3.2 app with Devise, CanCan, and Twitter Bootstrap. With a tutorial.](https://github.com/RailsApps/rails3-bootstrap-devise-cancan) http://railsapps.github.io
 * [Authority helps you authorize actions in your Rails app](https://github.com/nathanl/authoruty)
+* [Authorization Gem for Ruby on Rails.](https://github.com/ryanb/cancan)
 
 Chart
 -----
@@ -172,16 +178,22 @@ keywords: user,view,rails
 
 * [Real-time Rails Partials](https://github.com/chrismccord/sync)
 
-Testing
--------
-keywords: test,qa,isolated
-
-* [Test Kitchen is an integration tool for developing and testing infrastructure code and software on isolated target platforms. 
-http://kitchen.ci](https://github.com/test-kitchen/test-kitchen)
- * [kitchen-sync provides alternate file transfer implementations for test-kitchen, most of which are faster than the default, thus speeding up your test runs.](https://github.com/coderanger/kitchen-sync)
-
 File Sync
 ---------
 keywords: file,fs,sync
 
 * [Ruby interface of the command of file synchronizer unison](https://github.com/ytaka/ruby-unison)
+
+Git processing
+---------
+keywords: git
+
+* [ruby bindings to libgit2](https://github.com/libgit2/rugged)
+ * [**Grit is no longer maintained. Check out libgit2/rugged.** Grit gives you object oriented read/write access to Git repositories via Ruby. http://grit.rubyforge.org/](https://github.com/mojombo/grit)
+* [Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features. [IMPORTANT: please click and read the WIKI link above before submitting issues, pull requests, etc] IMPORTANT: PLEASE READ Nov 2 2014 UPDATE ABOUT DONATIONS -- see wiki http://wiki.github.com/sitaramc/gitolite/](https://github.com/sitaramc/gitolite)
+
+Pub Sub
+-------
+keywords: pubsub
+
+* [Simple pub/sub messaging for the web http://faye.jcoglan.com](https://github.com/faye/faye)
